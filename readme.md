@@ -6,7 +6,7 @@ Taken from:
 - [A practical guide to the Google Geocoding API (part 1 of 5)](https://blog.afi.io/blog/a-practical-guide-to-the-google-geocoding-api/)
 - [Forward geocoding with the Google Geocoding API (part 2 of 5)](https://blog.afi.io/blog/forward-geocoding-with-the-google-geocoding-api/)
 - [Google Maps reverse geocoding: Get addresses from coordinates (part 3 of 5)](https://blog.afi.io/blog/google-reverse-geocoding-get-addresses-from-coordinates/)
-- Google Address Validation API: Better than USPS? (part 4 of 5)
+- [Fix bad addresses with the Google Address Validation API (part 4 of 5)](https://blog.afi.io/blog/fix-bad-addresses-with-the-google-address-validation-api/)
 - [Google Maps Building Outlines and Entrances API (part 5 of 5)](https://blog.afi.io/blog/google-maps-building-outlines-and-entrances-api/)
   
 How to run the app:
